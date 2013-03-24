@@ -6,3 +6,4 @@ Again to push
 fix another bug
 Feature 1
 feature2
+feature2 changeds
